@@ -12,7 +12,7 @@
 
 ## Conversions
 	- binary_to_decimal
-	- decimal _to_binary
+	- decimal_to_binary
 	- decimal_to_hexa
 	- decimal_to_octal
 	- to_decimal
@@ -48,7 +48,7 @@
 	- SelectionSort
 	- shaker_sort
 	- HeapSort
-	
+
 ## Hashing
 	- sdbm
 	- djb2
@@ -78,4 +78,3 @@ In this directory you will find (in the right order):
 * acronym
 * word-count
 * rna-transcription
-
